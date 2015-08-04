@@ -1,0 +1,48 @@
+<div id = "zdjecia" class="carousel slide " >
+                    
+                    <ol class="carousel-indicators">
+                        <li data-target = "#zdjecia" data-slide-to = "0" class  ="active"></li>
+                        <li data-target = "#zdjecia" data-slide-to = "1"></li>
+                        <li data-target = "#zdjecia" data-slide-to = "2"></li> 
+                    </ol>
+            
+                    <div class="carousel-inner " >
+                        
+                        <div class="item active">
+                            <img src = "img/guitar.jpg" alt = "beach" class="img-responsive">
+                            <div class="carousel-caption">
+                                <h3>Wymarzona gitara</h3>
+                                <p>Poradnik jak wybraæ w³aœciw¹ gitarê</p>
+                            </div>
+                            
+                        
+                        </div>
+                        <div class="item ">
+                            <img src = "img/notes.jpg" alt = "notes" class="img-responsive">
+                            <div class="carousel-caption">
+                                <h3>Nauka od podstaw</h3>
+                                <p>Szybki kurs dla pocz¹tkuj¹cych</p>
+                            </div>
+                            
+                        
+                        </div>
+                        <div class="item ">
+                            <img src = "img/pink.jpg" alt ="pink" class="img-responsive">
+                            <div class="carousel-caption pull-left">
+                                <h1>Lata praktyki</h1>
+                                <p>Rady profesjonalnych gitarzystów dla nowicjuszy</p>
+                            </div> 
+                        
+                        </div>
+                    
+                    </div>
+                    
+                    <a class="carousel-control left" href="#zdjecia" data-slide = "prev">
+                   <span class="icon-prev"></span> 
+                    </a>
+                    
+                    <a class="carousel-control right" href="#zdjecia" data-slide = "next">
+                   <span class="icon-next"></span> 
+                    </a>
+                    
+                </div>
