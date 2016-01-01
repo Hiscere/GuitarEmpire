@@ -1,23 +1,2 @@
-body {
-    margin-bottom: 80px;
-    font-family: 'Roboto', sans-serif;
-    background-image: url("../img/bg.jpg");
-}
-    
-.page-header {
-    margin-top: 0;
-}
 
-.panel-body {
-    padding-top: 0;
-}
-
-.featureImg {
-    width: 100%;
-    margin-bottom: 15px;
-}
-
-.spacing {
-    margin-top: 30px;
-}
 
